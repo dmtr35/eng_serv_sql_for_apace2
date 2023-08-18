@@ -1,0 +1,53 @@
+now;сейчас
+then;тогда
+again;снова
+always;всегда
+never;никогда
+soon;скоро
+late;поздно
+early;рано
+before;до
+after;после
+yesterday;вчера
+today;сегодня
+tomorrow;завтра
+next week (year);на следующей неделе (в след. году)
+every day (week, month);каждый день (неделю, месяц)
+this morning (afternoon);этим утром (днем)
+tonight;этим вечером (ночью)
+sometimes;иногда
+often;часто
+rarely, seldom;редко
+recently;недавно
+lately;в последнее время
+once;однажды
+usually;обычно
+already;уже
+yet;уже, еще
+not yet;еще не
+still;все еще
+here;здесь
+there;там
+where;где
+around;вокруг
+inside;внутри
+outside;снаружи
+above;над
+under, below;под
+somewhere;где-то
+anywhere;где-нибудь, хоть где
+nowhere;нигде
+only;только
+much;много
+little;мало
+very;очень
+so;так
+enough;достаточно
+almost;почти
+well;хорошо
+bad;плохо
+fast;быстро
+quickly;быстро
+slowly;медленно
+too ( + наречие);слишком (+ наречие)
+
